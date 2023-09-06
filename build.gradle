@@ -51,8 +51,8 @@ bootJar {
 /*tasks.register('release', Copy) {
 	from './build/libs/testapp.jar'
 	into './'
-}*/
-release.dependsOn bootJar
+}
+release.dependsOn bootJar*/
 
 
 /*password: MyFirst@Project2023r*/
